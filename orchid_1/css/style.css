@@ -1,0 +1,45 @@
+body{
+        background-color:#000000;
+            color: white;
+            
+}
+img{
+float:left;
+}
+table{
+   
+    width: 100%;
+
+}
+
+.tr1{
+    height: 200px;
+}
+.tr2{
+    height: 500px;
+}
+.google{
+border:1px solid red;
+}
+.tr3{
+
+    text-align: center;
+    height: 50px;
+}
+
+.Menu{
+    text-align: center;
+    width: 250px;
+}
+.c{
+border:1px solid red;
+}
+.Content{
+    width: 800px;
+}
+.count{
+    margin: 50px auto;
+    border: 1px solid red;
+    height: 200px;
+    width: 180px;
+}

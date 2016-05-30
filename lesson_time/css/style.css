@@ -1,0 +1,53 @@
+body{
+    font: 14px Tahoma;
+    color:#00065B;
+    border:2px solid #FAA21A
+}
+
+p{
+    text-indent:30px;
+}
+
+#header {
+    text-align:center;
+    text-transform: capitalize;
+    border-top: 2px solid #FAA21A;
+}
+
+.new2{
+    font-style: italic;
+}
+
+.new3{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: 1px dotted #C32017;
+}
+
+.new4{
+    text-align:justify;
+}
+
+ul{
+    list-style: inside url(../images/arrow.png);
+    color:#C32017; /* Красный */
+}
+li {
+color:#FAA21A;    /* Золотистый */
+}
+
+.new6{
+    color:#97AD34; /* Зеленый */
+}
+
+#liSuper{
+    color:#56AEF3; /* Синий */
+}
+
+#myList li.new6 {
+    color:#400000; /* Шоколадный */
+}
